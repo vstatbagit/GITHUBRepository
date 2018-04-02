@@ -1,0 +1,16 @@
+{
+  "name": "GITHUBRepository",
+  "description": "github",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
